@@ -34,9 +34,9 @@
             "ad_link" : "https://www.kimp.io/gif-marketing/",
 
             "ad_score_amount" : 1,
-            "ad_game_minutes" : 100,
-            "ad_int_interval" : 5,
-            "score_rating_reward" : 5,
+            "ad_game_minutes" : 1,
+            "ad_int_interval" : 1,
+            "score_rating_reward" : 1,
 
             "orientation": "landscape",
             "game_link": "https://games.crazygames.com/fr_FR/blitz-tanks/index.html",
